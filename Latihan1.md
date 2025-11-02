@@ -44,4 +44,4 @@ print("Selesai")
 5. print(...): Baris ini menampilkan hasilnya sesuai format yang diminta di contoh keluaran pada gambar.
 
 ## Otput
-<img width="1918" height="555" alt="image" src="Gambar_otput.png" />
+<img width="1918" height="555" alt="image" src="Gambar_otput1.png" />
