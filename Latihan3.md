@@ -100,4 +100,4 @@ while True:
 6. Penanganan Error
  - Kode menggunakan blok try...except untuk mengantisipasi kesalahan input yang mungkin terjadi, seperti pengguna memasukkan teks saat program mengharapkan angka (saat     penarikan uang), sehingga program tidak langsung crash.
 ## Otput
-<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/cc4bc8eb-a231-4a57-9971-8df2e57ad01b" />
+<img width="1919" height="818" alt="image" src="Gambar_otput3.png" />
