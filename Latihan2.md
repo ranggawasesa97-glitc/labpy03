@@ -55,4 +55,4 @@ Output program harus menampilkan laba yang diperoleh untuk setiap bulan secara t
       - Laba Bulan 6 (5%): $100.000.000 \times 0.05 = \text{Rp } 5.000.000$
   - Catatan: Jika mengikuti semua persentase yang disebutkan (termasuk 3% di bulan 8), Total Laba seharusnya adalah Rp 20.000.000.
 ## Otput
-<img width="1919" height="562" alt="image" src="https://github.com/user-attachments/assets/03b3e0bc-a74d-4637-9ac1-7dd61af2ac90" />
+<img width="1919" height="562" alt="image" src="Gambar_otput2.png" />
